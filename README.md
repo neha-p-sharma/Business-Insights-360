@@ -183,7 +183,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Info Page
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Info.gif](info.gif)
 
 ## Finance View
 
