@@ -158,7 +158,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="Data Model.png" class="center">
+<img src="Resources/Data Model.png" class="center">
 
 ### Dashboard designing
 
@@ -179,34 +179,34 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](overall.gif)
+![Overall Report.gif](Resources/overall.gif)
 
 ## Info Page
 
-![Info.gif](info.gif)
+![Info.gif](Resources/info.gif)
 
 ## Finance View
 
-![Finance.gif](Finance.gif)
+![Finance.gif](Resources/Finance.gif)
 ## Sales View
 
-![Sales.gif](Sales.gif)
+![Sales.gif](Resources/Sales.gif)
 
 ## Marketing View
 
-![Marketing.gif](Marketing.gif)
+![Marketing.gif](Resources/Marketing.gif)
 
 ## Supply chain View
 
-![Supply chain.gif](Supply%20chain.gif)
+![Supply chain.gif](Resources/Supply%20chain.gif)
 
 ## Executive View
 
-![Executive.gif](Executive.gif)
+![Executive.gif](Resources/Executive.gif)
 
 ## Support
 
-![Support](support.gif)
+![Support](Resources/support.gif)
 
 
 
